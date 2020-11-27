@@ -1,0 +1,33 @@
+{
+  "name": "@miirinjej/stylelint-config-extra",
+  "version": "1.0.0",
+  "description": "Standalone stylelint config with additional extensions for CSS/SCSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miirinjej/stylelint-config-extra.git"
+  },
+  "keywords": [
+    "stylelint",
+    "stylelint-config"
+  ],
+  "author": "Radmir Nabiullin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miirinjej/stylelint-config-extra/issues"
+  },
+  "homepage": "https://github.com/miirinjej/stylelint-config-extra#readme",
+  "dependencies": {
+    "stylelint-8-point-grid": "^1.0.0",
+    "stylelint-color-format": "^1.1.0",
+    "stylelint-declaration-block-no-ignored-properties": "^2.3.0",
+    "stylelint-declaration-strict-value": "^1.7.0",
+    "stylelint-high-performance-animation": "^1.5.2"
+  },
+  "peerDependencies": {
+    "stylelint": "^13.8.0"
+  }
+}
