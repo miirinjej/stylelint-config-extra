@@ -28,6 +28,6 @@
     "stylelint-high-performance-animation": "^1.5.2"
   },
   "peerDependencies": {
-    "stylelint": "^13.8.0"
+    "stylelint": "^13.12.0"
   }
 }
