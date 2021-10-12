@@ -13,7 +13,7 @@ module.exports = {
      * 8-point grid
      */
     'plugin/8-point-grid': {
-      base: 8,
+      base: 4,
       allowlist: [],
       ignorelist: [],
     },
